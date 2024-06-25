@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9188eaa.css",
+    "main.js": "/static/js/main.bda9a541.js",
+    "static/js/453.a1a0e49a.chunk.js": "/static/js/453.a1a0e49a.chunk.js",
+    "static/media/Digicel.svg": "/static/media/Digicel.fb3880b80e76755cb68612e7f3dfa806.svg",
+    "index.html": "/index.html",
+    "main.c9188eaa.css.map": "/static/css/main.c9188eaa.css.map",
+    "main.bda9a541.js.map": "/static/js/main.bda9a541.js.map",
+    "453.a1a0e49a.chunk.js.map": "/static/js/453.a1a0e49a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9188eaa.css",
+    "static/js/main.bda9a541.js"
+  ]
+}
